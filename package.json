@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/devbetter/typescript-study/issues"
   },
-  "homepage": "https://github.com/devbetter/typescript-study#readme"
+  "homepage": "https://github.com/devbetter/typescript-study#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
