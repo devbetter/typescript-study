@@ -18,5 +18,7 @@
   },
   "homepage": "https://github.com/devbetter/typescript-study#readme",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
