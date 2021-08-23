@@ -12,4 +12,4 @@ try {
 }
 
 let foo:void = undefined;
-let bar:undefined = undefined;
+let bar:never = error('test');
